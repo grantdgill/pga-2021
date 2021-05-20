@@ -65,7 +65,8 @@ var fantasy              = fantasy || {},
     CARLOS_ORTIZ         = '5532',
     VIKTOR_HOVLAND       = '4364873',
     KH_LEE               = '7083',
-    ABRAHAM_ANCER        = '9261';
+    ABRAHAM_ANCER        = '9261',
+    SAM_BURNS            = '9938';
 
 fantasy.config = {
     tournamentName  : 'PGA Championship -- 2021',
