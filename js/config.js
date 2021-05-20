@@ -138,6 +138,33 @@ fantasy.config = {
                 RORY_MCILROY,
                 ABRAHAM_ANCER
             ]
+        }, {
+            name: 'John',
+            golfers: [
+                RORY_MCILROY,
+                JON_RAHM,
+                JUSTIN_THOMAS,
+                XANDER_SCHAUFFELE,
+                ADAM_SCOTT
+            ]
+        }, {
+            name: 'Dave',
+            golfers: [
+                JON_RAHM,
+                JUSTIN_THOMAS,
+                XANDER_SCHAUFFELE,
+                VIKTOR_HOVLAND,
+                SAM_BURNS
+            ]
+        }, {
+            name: 'Laura',
+            golfers: [
+                RORY_MCILROY,
+                JORDAN_SPIETH,
+                DANIEL_BERGER,
+                COLLIN_MORIKAWA,
+                LEE_WESTWOOD
+            ]
         }
     ]
 };
