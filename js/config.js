@@ -62,7 +62,10 @@ var fantasy              = fantasy || {},
     CAMERON_CHAMP        = '11098',
     SCOTTIE_SCHEFFLER    = '9478',
     MAX_HOMA             = '8973',
-    CARLOS_ORTIZ         = '5532';
+    CARLOS_ORTIZ         = '5532',
+    VIKTOR_HOVLAND       = '4364873',
+    KH_LEE               = '7083',
+    ABRAHAM_ANCER        = '9261';
 
 fantasy.config = {
     tournamentName  : 'PGA Championship -- 2021',
@@ -72,7 +75,7 @@ fantasy.config = {
     apiKey          : '_____',
     teams           : [
         {
-            name: 'Grant',
+            name: 'GrantG',
             golfers: [
                 RORY_MCILROY,
                 JORDAN_SPIETH,
@@ -91,7 +94,50 @@ fantasy.config = {
                 CAMERON_CHAMP
             ]
         }, {
-
+            name: 'GrantH',
+            golfers: [
+                JUSTIN_THOMAS,
+                VIKTOR_HOVLAND,
+                DANIEL_BERGER,
+                CAMERON_SMITH,
+                DUSTIN_JOHNSON
+            ]
+        }, {
+            name: 'Adam',
+            golfers: [
+                RORY_MCILROY,
+                JORDAN_SPIETH,
+                DUSTIN_JOHNSON,
+                XANDER_SCHAUFFELE,
+                WEBB_SIMPSON
+            ]
+        }, {
+            name: 'Jetta',
+            golfers: [
+                KH_LEE,
+                VIKTOR_HOVLAND,
+                RORY_MCILROY,
+                JON_RAHM,
+                JORDAN_SPIETH
+            ]
+        }, {
+            name: 'Jack',
+            golfers: [
+                DUSTIN_JOHNSON,
+                JUSTIN_THOMAS,
+                BRYSON_DECHAMBEAU,
+                COLLIN_MORIKAWA,
+                TONY_FINAU
+            ]
+        }, {
+            name: 'JB',
+            golfers: [
+                JON_RAHM,
+                VIKTOR_HOVLAND,
+                WEBB_SIMPSON,
+                RORY_MCILROY,
+                ABRAHAM_ANCER
+            ]
         }
     ]
 };
